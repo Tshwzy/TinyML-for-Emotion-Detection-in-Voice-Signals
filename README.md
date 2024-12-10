@@ -76,4 +76,7 @@ Refer to the hardware/ folder for step-by-step deployment instructions and perfo
 - **Optimize models further for ultra-low-power devices**
 - **Explore applications in mental health monitoring and social interaction analysis**
 
+## Contact
+For any queries or collaboration opportunities, feel free to reach out:
+Email: tshewangchoden71@gmail.com
 
